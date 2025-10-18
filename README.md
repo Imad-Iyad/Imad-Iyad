@@ -1,11 +1,11 @@
 <div align="center">
   
-# Hi, I'm Imad Iyad 👋
+# Hi, I'm Imad👋
 
 Backend developer focused on Java & Spring Boot 🚀  
 Building scalable backend systems with modern tech stacks ✨  
 Passionate about clean architecture and efficient solutions 🛠️  
-Check out my projects on GitHub, showcasing my work 👨‍💻
+Check out my repositories, showcasing my work 👨‍💻
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
