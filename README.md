@@ -8,13 +8,12 @@ Passionate about clean architecture and efficient solutions 🛠️
 Check out my repositories, showcasing my work 👨‍💻
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=212121)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Imad-Iyad&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Imad-Iyad&theme=dark&hide_border=true&bg_color=212121)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Iyad&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Iyad&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=212121)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Imad-Iyad&icon=0&color=0)](https://visitcount.itsvg.in)
