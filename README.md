@@ -4,24 +4,15 @@ Building scalable backend systems with modern tech stacks ✨
 Passionate about clean architecture and efficient solutions 🛠️  
 Check out my projects on GitHub, showcasing my work 👨‍💻
 
-## 💻 My GitHub Statistics:
-- **Total Stars Earned**: 1  
-- **Total Commits (last year)**: 193  
-- **Total PRs**: 5  
-- **Total Issues**: 3  
-- **Contributed to (last year)**: 2
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Imad-Iyad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌟 Contribution Stats:
-- **Total Contributions**: 332 (May 2023 - Present)  
-- **Current Streak**: 0 (Oct 18, 2025)  
-- **Longest Streak**: 7 (Jul 29, 2023 - Aug 4, 2023)
+---
+[![](https://visitcount.itsvg.in/api?id=Imad-Iyad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Most Used Languages:
-- **Java**: 81.86%  
-- **Spring Boot**: 7.57%  
-- **Postgres**: 5.85%  
-- **Docker**: 3.53%  
-- **Git**: 1.59%
+
 
 ## 🌐 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emadeyad063@gmail.com)
