@@ -1,5 +1,7 @@
 <div align="center">
-# Hi, I'm Imad Iyad 👋  
+  
+# Hi, I'm Imad Iyad 👋
+
 Backend developer focused on Java & Spring Boot 🚀  
 Building scalable backend systems with modern tech stacks ✨  
 Passionate about clean architecture and efficient solutions 🛠️  
