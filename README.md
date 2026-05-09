@@ -10,8 +10,6 @@ Check out my repositories to explore my projects and backend experience 👨‍�
 
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Imad-Iyad&theme=dark&hide_border=false)<br/>
