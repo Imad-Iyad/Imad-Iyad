@@ -10,14 +10,11 @@ Check out my repositories to explore my projects and backend experience 👨‍�
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imad-Iyad&show_icons=true&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Imad-Iyad&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imad-Iyad&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Iyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Imad-Iyad&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Iyad&layout=compact&theme=dark)
 
 ## 🌐 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emadeyad063@gmail.com)
